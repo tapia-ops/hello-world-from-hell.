@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*  print Farenhet-Celsius table
-*  for fahr =0, 20, ..., 300 */
+/*  print Farenheit-Celsius table
+*/  for fahr =0, 20, ..., 300 */
 
 main()
 {
@@ -18,4 +18,6 @@ main()
     printf("%d\t%d\n", fahr, celsius);
     fahr = fahr + step;
   }
-}
+} 
+
+/**/
